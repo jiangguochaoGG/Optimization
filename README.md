@@ -12,6 +12,10 @@
 
 李保山 22210980010
 
+## 数据准备
+
+在datasets文件夹下下载两个数据集：[covtype](https://drive.google.com/file/d/1lPl1XVZjW5r_aD5i_a_gZtzx24xMscZZ/view?usp=sharing)和[gisette](https://drive.google.com/file/d/1Lhw6rpcZk1Mn2aEgY3Jr_OdcOMtVTOfB/view?usp=sharing)
+
 ## 代码使用示例
 
 非随机方法实验：
